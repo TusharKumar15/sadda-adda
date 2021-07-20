@@ -6,4 +6,4 @@ since I could not commit the files on github properly, we have to view the websi
 2. replace the public and src folder with those in my code
 3. install react router dom - Run: npm install react-router-dom
 4. Run: npm start
-Extremely sorry for this inconvinience 
+###Extremely sorry for this inconvinience 
