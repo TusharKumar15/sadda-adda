@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/sadda-adda/static/css/main.a01210b7.chunk.css",
+    "main.js": "/sadda-adda/static/js/main.0c6ab22b.chunk.js",
+    "main.js.map": "/sadda-adda/static/js/main.0c6ab22b.chunk.js.map",
+    "runtime-main.js": "/sadda-adda/static/js/runtime-main.e25b6747.js",
+    "runtime-main.js.map": "/sadda-adda/static/js/runtime-main.e25b6747.js.map",
+    "static/js/2.f0b2e1f1.chunk.js": "/sadda-adda/static/js/2.f0b2e1f1.chunk.js",
+    "static/js/2.f0b2e1f1.chunk.js.map": "/sadda-adda/static/js/2.f0b2e1f1.chunk.js.map",
+    "static/js/3.6872387f.chunk.js": "/sadda-adda/static/js/3.6872387f.chunk.js",
+    "static/js/3.6872387f.chunk.js.map": "/sadda-adda/static/js/3.6872387f.chunk.js.map",
+    "index.html": "/sadda-adda/index.html",
+    "static/css/main.a01210b7.chunk.css.map": "/sadda-adda/static/css/main.a01210b7.chunk.css.map",
+    "static/js/2.f0b2e1f1.chunk.js.LICENSE.txt": "/sadda-adda/static/js/2.f0b2e1f1.chunk.js.LICENSE.txt",
+    "static/media/logo.1c77cdc8.jpg": "/sadda-adda/static/media/logo.1c77cdc8.jpg",
+    "static/media/App.css": "/sadda-adda/static/media/main_bg.957ee280.jpg",
+    "static/media/signin.css": "/sadda-adda/static/media/social_media01.8c223527.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e25b6747.js",
+    "static/js/2.f0b2e1f1.chunk.js",
+    "static/css/main.a01210b7.chunk.css",
+    "static/js/main.0c6ab22b.chunk.js"
+  ]
+}
